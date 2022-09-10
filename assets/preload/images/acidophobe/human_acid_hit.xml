@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="human_acid_hit.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HumanAcidHit0000" x="0" y="0" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0001" x="0" y="0" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0002" x="401" y="0" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0003" x="401" y="0" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0004" x="802" y="0" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0005" x="802" y="0" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0006" x="1203" y="0" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0007" x="1203" y="0" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0008" x="1604" y="0" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0009" x="0" y="562" width="386" height="547"/>
+	<SubTexture name="HumanAcidHit0010" x="401" y="562" width="386" height="547"/>
+</TextureAtlas>

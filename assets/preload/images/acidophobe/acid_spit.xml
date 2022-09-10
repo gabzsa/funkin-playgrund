@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="acid_spit.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AcidDodge0000" x="0" y="0" width="682" height="403"/>
+	<SubTexture name="AcidDodge0001" x="697" y="0" width="682" height="403"/>
+	<SubTexture name="AcidDodge0002" x="1394" y="0" width="682" height="403"/>
+	<SubTexture name="AcidDodge0003" x="1394" y="0" width="682" height="403"/>
+	<SubTexture name="AcidDodge0004" x="2091" y="0" width="682" height="403"/>
+	<SubTexture name="AcidDodge0005" x="2091" y="0" width="682" height="403"/>
+	<SubTexture name="AcidDodge0006" x="2788" y="0" width="682" height="403"/>
+	<SubTexture name="AcidDodge0007" x="2788" y="0" width="682" height="403"/>
+	<SubTexture name="AcidDodge0008" x="0" y="418" width="682" height="403"/>
+	<SubTexture name="AcidDodge0009" x="0" y="418" width="682" height="403"/>
+	<SubTexture name="AcidDodge0010" x="697" y="418" width="682" height="403"/>
+	<SubTexture name="AcidHit0000" x="1394" y="418" width="704" height="411"/>
+	<SubTexture name="AcidHit0001" x="2113" y="418" width="704" height="411"/>
+	<SubTexture name="AcidHit0002" x="2832" y="418" width="704" height="411"/>
+	<SubTexture name="AcidHit0003" x="2832" y="418" width="704" height="411"/>
+	<SubTexture name="AcidHit0004" x="0" y="844" width="704" height="411"/>
+	<SubTexture name="AcidHit0005" x="719" y="844" width="704" height="411"/>
+	<SubTexture name="AcidHit0006" x="719" y="844" width="704" height="411"/>
+	<SubTexture name="AcidHit0007" x="1438" y="844" width="704" height="411"/>
+	<SubTexture name="AcidHit0008" x="1438" y="844" width="704" height="411"/>
+	<SubTexture name="AcidHit0009" x="2157" y="844" width="704" height="411"/>
+	<SubTexture name="AcidHit0010" x="2157" y="844" width="704" height="411"/>
+	<SubTexture name="AcidHit0011" x="2876" y="844" width="704" height="411"/>
+	<SubTexture name="AcidHit0012" x="2876" y="844" width="704" height="411"/>
+	<SubTexture name="AcidHit0013" x="0" y="1270" width="704" height="411"/>
+	<SubTexture name="AcidHit0014" x="0" y="1270" width="704" height="411"/>
+	<SubTexture name="AcidHit0015" x="719" y="1270" width="704" height="411"/>
+	<SubTexture name="AcidHit0016" x="719" y="1270" width="704" height="411"/>
+	<SubTexture name="AcidHit0017" x="1438" y="1270" width="704" height="411"/>
+	<SubTexture name="AcidHit0018" x="1438" y="1270" width="704" height="411"/>
+	<SubTexture name="AcidHit0019" x="2157" y="1270" width="704" height="411"/>
+	<SubTexture name="AcidHit0020" x="2157" y="1270" width="704" height="411"/>
+	<SubTexture name="AcidHit0021" x="2876" y="1270" width="704" height="411"/>
+	<SubTexture name="AcidHit0022" x="0" y="1696" width="704" height="411"/>
+</TextureAtlas>
